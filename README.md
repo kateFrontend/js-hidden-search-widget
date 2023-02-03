@@ -1,5 +1,7 @@
 # Hidden Search Widget
 
+![cover](./assets/search.gif)
+
 ## 🦉 Main information
 
 "Hidden search" functionality.
